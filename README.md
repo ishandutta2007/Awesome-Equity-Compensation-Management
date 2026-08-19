@@ -57,7 +57,7 @@ The table below catalogs leading commercial equity compensation and cap table so
 
 The table below catalogs active open-source repositories for capitalization tables, open standards, smart vesting contracts, and dilution calculators. The entries are sorted in **descending order of GitHub Star counts (⭐)**.
 
-| Project & Repo Link | Stars | Description | Focus / Tech Stack |
+| Project & Repo Link | Github_Stars | Description | Focus / Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation)** | <a href="https://github.com/jlevy/og-equity-compensation/stargazers"><img src="https://img.shields.io/github/stars/jlevy/og-equity-compensation?style=social&color=white" alt="Stars"/></a> | The open-source standard guide on equity compensation, stock options (ISOs/NSOs), RSUs, taxes, 83(b) elections, and exit scenarios. | 📚 Comprehensive Guide & Reference |
 | **[bradparks / og-equity-compensation](https://github.com/bradparks/og-equity-compensation__or_how_stock_options_work_and_taxes)** | <a href="https://github.com/bradparks/og-equity-compensation__or_how_stock_options_work_and_taxes/stargazers"><img src="https://img.shields.io/github/stars/bradparks/og-equity-compensation__or_how_stock_options_work_and_taxes?style=social&color=white" alt="Stars"/></a> | Plain-English open reference on how startup stock options work, exercise costs, alternative minimum tax (AMT), and liquidation preferences. | 📖 Equity Guide & Tax Walkthrough |

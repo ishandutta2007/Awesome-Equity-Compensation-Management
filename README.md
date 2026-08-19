@@ -22,35 +22,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Carta](https://carta.com/)**  
-  Leading equity management and cap-table platform used by tens of thousands of private companies, covering grants, valuations, compliance, investor reporting, and total compensation insights.
 
-- **[Shareworks (Morgan Stanley at Work)](https://www.shareworks.com/)**  
-  Institutional-grade equity plan administration platform from Morgan Stanley, strong for mature private companies and pre-IPO equity programs.
-
-- **[Carta Total Comp](https://carta.com/)**  
-  Carta’s broader total-compensation offering that combines equity data with cash compensation insights and benchmarking.
-
-- **[Pulley](https://pulley.com/)**  
-  Modern, founder-friendly cap-table and equity management platform known for transparent pricing and clean onboarding for early-stage companies.
-
-- **[Qapita](https://www.qapita.com/)**  
-  Equity management platform with strong presence in APAC, supporting cap tables, ESOPs, and fund administration.
-
-- **[Ledgy](https://www.ledgy.com/)**  
-  European-focused equity management platform with multi-jurisdiction compliance, HRIS integrations, and strong GDPR alignment.
-
-- **[Global Shares](https://www.globalshares.com/)**  
-  International equity plan administration and employee share plan platform used by companies with complex global workforces.
-
-- **[Morgan Stanley at Work](https://www.morganstanley.com/)**  
-  Broader workplace financial solutions suite that includes equity compensation management capabilities.
-
-- **[Certent Equity Management](https://www.certent.com/)**  
-  Equity compensation and plan administration software focused on compliance, reporting, and participant experience.
-
-- **[EquityList](https://equitylist.co/)**  
-  Cap-table and ESOP management platform with particular focus on markets such as India and emerging ecosystems.
+| Product | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Carta](https://carta.com/)** | Leading equity management and cap-table platform covering grants, valuations, compliance, investor reporting, and total compensation insights. | Paid tiers (Build, Grow, Scale) start around $3,000–$8,000/year (Seed) up to $15,000+/year depending on stakeholder count | Free forever on **Carta Launch** plan: Up to 25 stakeholders and <$1M raised |
+| **[Pulley](https://pulley.com/)** | Modern, founder-friendly cap-table and equity management platform known for transparent pricing and clean onboarding for early-stage companies. | Starts at $1,200/year ($100/month billed annually) for Startup plan (up to 25 stakeholders); $3,500/year for Growth plan | 14-day free trial for cap table migration and platform evaluation (no permanent free tier) |
+| **[Ledgy](https://www.ledgy.com/)** | European-focused equity management platform with multi-jurisdiction compliance, HRIS integrations, and strong GDPR alignment. | Growth plan starts at ~€3 per stakeholder/month (~€36/stakeholder/year); Scale plan starts around €300/month | Free forever on **Launch** plan: Up to 5 equity grants, core cap table, and KPI dashboard; 7-day free trial on paid tiers |
+| **[EquityList](https://equitylist.co/)** | Cap-table and ESOP management platform with strong focus on markets such as India, US, and emerging ecosystems. | Paid plans start at $11 per stakeholder/year for standard equity & ESOP administration | Free forever plan: Up to 25 stakeholders and <$1M total funds raised |
+| **[Qapita](https://www.qapita.com/)** | Equity management platform with strong presence in APAC, supporting cap tables, ESOPs, and fund administration. | Starter plan starts at $1,000/year for early-stage teams; Growth & Enterprise scale with custom add-ons | Free forever on **Spark / Basic** plan: Up to 25 stakeholders and basic cap table management |
+| **[Carta Total Comp](https://carta.com/)** | Carta’s total-compensation offering combining cap-table equity data with live market cash compensation insights and benchmarking. | Add-on module starting around $5,000–$21,000/year depending on headcount and Carta tier subscription | No free forever plan; access available via scheduled guided product demo/sandbox |
+| **[Shareworks (Morgan Stanley at Work)](https://www.shareworks.com/)** | Institutional-grade equity plan administration platform from Morgan Stanley, strong for mature private companies and pre-IPO programs. | Annual enterprise contract based on participant count and plan complexity (typically starting $10,000+/year) | No public free tier or free trial; access provided via enterprise sales consultation and guided demo |
+| **[Global Shares](https://www.globalshares.com/)** | International equity plan administration and employee share plan platform (part of J.P. Morgan Workplace Solutions). | Annual enterprise contract based on global jurisdiction count and participants (typically starting $10,000+/year) | No public free tier or free trial; access provided via enterprise demo & implementation scope |
+| **[Morgan Stanley at Work](https://www.morganstanley.com/)** | Broader workplace financial solutions suite that includes equity compensation, retirement, and executive financial services. | Custom institutional partnership agreement based on company size and service modules | No public free tier or free trial; access provided via employer-sponsored institutional plan |
+| **[Certent Equity Management](https://www.certent.com/)** | Equity compensation and plan administration software by insightsoftware focused on ASC 718/IFRS compliance and reporting. | Enterprise annual license tailored to company structure and reporting modules (typically starting $8,000+/year) | No public free tier or free trial; access provided via live product demo and scoping |
 
 ## Open-Source GitHub Projects
 - **[Open Cap Format (OCF)](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF)**  

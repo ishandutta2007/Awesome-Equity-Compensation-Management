@@ -2,7 +2,7 @@
 
 Markdown
 Copy
-# Top Equity Compensation Management Platforms Ecosystem
+## Top Equity Compensation Management Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Cap Table Management, Stock Option Administration, Equity Plan Compliance, 409A Valuations, Stakeholder Portals & Dilution Modeling*
 **Last updated: August 2026**
